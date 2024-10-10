@@ -2,7 +2,7 @@
   "name": "saturated-dark-modern-oled",
   "displayName": "Saturated Dark Modern OLED",
   "description": "Saturated & OLED version of the default Dark Modern theme",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publisher": "LDprg",
   "license": "MIT",
   "scripts": {
